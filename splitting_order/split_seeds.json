@@ -1,0 +1,2434 @@
+{
+ "example": {
+  "3": [
+   {
+    "seed": 0,
+    "loss": 0.1066078826764098,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 1,
+    "loss": 0.1073796319153647,
+    "groups": [
+     "{A1,A2,A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 2,
+    "loss": 0.1066078826764098,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 3,
+    "loss": 0.10660788267640979,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 4,
+    "loss": 0.1073796319153647,
+    "groups": [
+     "{A1,A2,A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 5,
+    "loss": 0.1073796319153647,
+    "groups": [
+     "{A1,A2,A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 6,
+    "loss": 0.10660788267640979,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 7,
+    "loss": 0.1073796319153647,
+    "groups": [
+     "{A1,A2,A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 8,
+    "loss": 0.10660788267640979,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 9,
+    "loss": 0.1066078826764098,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 10,
+    "loss": 0.1066078826764098,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 11,
+    "loss": 0.1066078826764098,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 12,
+    "loss": 0.10737963191536472,
+    "groups": [
+     "{A1,A2,A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 13,
+    "loss": 0.10660788267640982,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 14,
+    "loss": 0.1066078826764098,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 15,
+    "loss": 0.10660788267640979,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 16,
+    "loss": 0.1073796319153647,
+    "groups": [
+     "{A1,A2,A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 17,
+    "loss": 0.1066078826764098,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 18,
+    "loss": 0.1066078826764098,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 19,
+    "loss": 0.1066078826764098,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2,B3}"
+    ],
+    "violations": 0
+   }
+  ],
+  "4": [
+   {
+    "seed": 0,
+    "loss": 0.09380173862978258,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1,B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 1,
+    "loss": 0.07884348491214001,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 2,
+    "loss": 0.09380173862978257,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1,B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 3,
+    "loss": 0.07884348491213619,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 4,
+    "loss": 0.07884348491213547,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 5,
+    "loss": 0.07884348491213548,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 6,
+    "loss": 0.07884348491213547,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 7,
+    "loss": 0.07884348491213547,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 8,
+    "loss": 0.07884348491213547,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 9,
+    "loss": 0.0788434849121355,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 10,
+    "loss": 0.09380173862978258,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1,B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 11,
+    "loss": 0.07884348491213548,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 12,
+    "loss": 0.07884348491213547,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 13,
+    "loss": 0.0788434891639796,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 14,
+    "loss": 0.07884348491213547,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 15,
+    "loss": 0.07884348491213547,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 16,
+    "loss": 0.07884348491213554,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 17,
+    "loss": 0.07884348491213547,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 18,
+    "loss": 0.07884348491213547,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 19,
+    "loss": 0.07884348501305205,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   }
+  ],
+  "5": [
+   {
+    "seed": 0,
+    "loss": 0.06603734086550825,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 1,
+    "loss": 0.06617124721662043,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 2,
+    "loss": 0.06603734086550825,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 3,
+    "loss": 0.06603734086550825,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 4,
+    "loss": 0.06603734086550825,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 5,
+    "loss": 0.06617124721662043,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 6,
+    "loss": 0.06617124721662043,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 7,
+    "loss": 0.06603734086550825,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 8,
+    "loss": 0.06603734086550825,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 9,
+    "loss": 0.06621192161476612,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1}",
+     "{B2,B3}",
+     "{B3}"
+    ],
+    "violations": 1
+   },
+   {
+    "seed": 10,
+    "loss": 0.06603734086550825,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 11,
+    "loss": 0.06617124721662043,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 12,
+    "loss": 0.06617124721662043,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 13,
+    "loss": 0.06603734086550825,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 14,
+    "loss": 0.06603734086550825,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 15,
+    "loss": 0.06617124721662043,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 16,
+    "loss": 0.06617124721662043,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 17,
+    "loss": 0.06617124721662043,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 18,
+    "loss": 0.06617124721662043,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 19,
+    "loss": 0.06617282389794751,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 0
+   }
+  ],
+  "6": [
+   {
+    "seed": 0,
+    "loss": 0.06369732789599844,
+    "groups": [
+     "{A1}",
+     "{A2}",
+     "{A3}",
+     "{A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 1,
+    "loss": 0.05336510316999321,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 2,
+    "loss": 0.06369732789599844,
+    "groups": [
+     "{A1}",
+     "{A2}",
+     "{A3}",
+     "{A4}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 3,
+    "loss": 0.05336510316999321,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 4,
+    "loss": 0.053365103169993225,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 5,
+    "loss": 0.053365103169999706,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 6,
+    "loss": 0.05336510316999321,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 7,
+    "loss": 0.05336510316999321,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 8,
+    "loss": 0.05336510316999321,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 9,
+    "loss": 0.05336510316999321,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 10,
+    "loss": 0.0637499758277062,
+    "groups": [
+     "{A1}",
+     "{A2,A4}",
+     "{A2}",
+     "{A3}",
+     "{B1,B2}",
+     "{B2,B3}"
+    ],
+    "violations": 1
+   },
+   {
+    "seed": 11,
+    "loss": 0.05336510316999321,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 12,
+    "loss": 0.05336510316999321,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 13,
+    "loss": 0.05378440360105498,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1}",
+     "{B2,B3}",
+     "{B3}"
+    ],
+    "violations": 1
+   },
+   {
+    "seed": 14,
+    "loss": 0.05336510316999321,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 15,
+    "loss": 0.05336510316999321,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 16,
+    "loss": 0.05336510316999321,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 17,
+    "loss": 0.05497720414698427,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 1
+   },
+   {
+    "seed": 18,
+    "loss": 0.05336510316999321,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A4}",
+     "{A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 0
+   },
+   {
+    "seed": 19,
+    "loss": 0.05365055506746293,
+    "groups": [
+     "{A1,A4}",
+     "{A2,A3,A4}",
+     "{A3,A4}",
+     "{B1}",
+     "{B2}",
+     "{B3}"
+    ],
+    "violations": 1
+   }
+  ]
+ },
+ "random": [
+  {
+   "inst": 0,
+   "pred": "A",
+   "spread": {
+    "A": 0.04300571598879356,
+    "B": 0.015580139988598711
+   },
+   "best_split": "A",
+   "best_loss": 0.07139816135137109,
+   "frac_runs_pred": 0.7,
+   "alt_best_loss": 0.0864976947314817,
+   "violations": 0,
+   "runs": [
+    {
+     "seed": 0,
+     "loss": 0.08649769473571886,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 1,
+     "loss": 0.07139816135137109,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 2,
+     "loss": 0.07139816135399149,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 3,
+     "loss": 0.07139816135137109,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 4,
+     "loss": 0.07139816135137109,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 5,
+     "loss": 0.07139816135137758,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 6,
+     "loss": 0.08649769488458145,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 7,
+     "loss": 0.07139816137083915,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 8,
+     "loss": 0.0864976947314817,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 9,
+     "loss": 0.07139818295289949,
+     "split": "A",
+     "violations": 0
+    }
+   ]
+  },
+  {
+   "inst": 1,
+   "pred": "B",
+   "spread": {
+    "A": 0.03360475603244882,
+    "B": 0.07396369376511545
+   },
+   "best_split": "B",
+   "best_loss": 0.10735138299412211,
+   "frac_runs_pred": 0.8,
+   "alt_best_loss": 0.12194450971324475,
+   "violations": 0,
+   "runs": [
+    {
+     "seed": 0,
+     "loss": 0.10735138299412211,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 1,
+     "loss": 0.10735138299412211,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 2,
+     "loss": 0.10735138299412211,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 3,
+     "loss": 0.12194450971324475,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 4,
+     "loss": 0.12194450971324475,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 5,
+     "loss": 0.10735138299412211,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 6,
+     "loss": 0.10735138299412211,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 7,
+     "loss": 0.10735138299412211,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 8,
+     "loss": 0.10735138299412213,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 9,
+     "loss": 0.10735138299412213,
+     "split": "B",
+     "violations": 0
+    }
+   ]
+  },
+  {
+   "inst": 2,
+   "pred": "A",
+   "spread": {
+    "A": 0.0672277180553007,
+    "B": 0.027383365983744266
+   },
+   "best_split": "A",
+   "best_loss": 0.09151823391720657,
+   "frac_runs_pred": 0.8,
+   "alt_best_loss": 0.1152120314868673,
+   "violations": 0,
+   "runs": [
+    {
+     "seed": 0,
+     "loss": 0.09151823391720657,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 1,
+     "loss": 0.1152120314868673,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 2,
+     "loss": 0.09151823391720657,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 3,
+     "loss": 0.09151823391720657,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 4,
+     "loss": 0.09151823391720657,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 5,
+     "loss": 0.09151823391720657,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 6,
+     "loss": 0.09151823391720658,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 7,
+     "loss": 0.1152120314868673,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 8,
+     "loss": 0.09151823391720658,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 9,
+     "loss": 0.09151823392442948,
+     "split": "A",
+     "violations": 0
+    }
+   ]
+  },
+  {
+   "inst": 3,
+   "pred": "B",
+   "spread": {
+    "A": 0.03482787135193058,
+    "B": 0.05351562449140057
+   },
+   "best_split": "B",
+   "best_loss": 0.09061656627972756,
+   "frac_runs_pred": 0.6,
+   "alt_best_loss": 0.09934029809404099,
+   "violations": 0,
+   "runs": [
+    {
+     "seed": 0,
+     "loss": 0.09061656627972757,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 1,
+     "loss": 0.09061656627972756,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 2,
+     "loss": 0.09061656627972756,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 3,
+     "loss": 0.09934029809404099,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 4,
+     "loss": 0.09934029809404099,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 5,
+     "loss": 0.09061658924306235,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 6,
+     "loss": 0.09061656627972756,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 7,
+     "loss": 0.09934029812363336,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 8,
+     "loss": 0.09061656627972757,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 9,
+     "loss": 0.09934029809404099,
+     "split": "A",
+     "violations": 0
+    }
+   ]
+  },
+  {
+   "inst": 4,
+   "pred": "B",
+   "spread": {
+    "A": 0.0458927795773141,
+    "B": 0.055695812439108344
+   },
+   "best_split": "A",
+   "best_loss": 0.10868250774075128,
+   "frac_runs_pred": 0.5,
+   "alt_best_loss": 0.11534190835901695,
+   "violations": 0,
+   "runs": [
+    {
+     "seed": 0,
+     "loss": 0.1086825077407513,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 1,
+     "loss": 0.11534190835901695,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 2,
+     "loss": 0.10868250786685639,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 3,
+     "loss": 0.10868250774075128,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 4,
+     "loss": 0.1086825077407513,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 5,
+     "loss": 0.1153419083590219,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 6,
+     "loss": 0.11534190839914697,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 7,
+     "loss": 0.10868250774075129,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 8,
+     "loss": 0.11534190835901825,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 9,
+     "loss": 0.11534190835904126,
+     "split": "B",
+     "violations": 0
+    }
+   ]
+  },
+  {
+   "inst": 5,
+   "pred": "B",
+   "spread": {
+    "A": 0.019906226071177986,
+    "B": 0.026519067301809706
+   },
+   "best_split": "B",
+   "best_loss": 0.06573521860004489,
+   "frac_runs_pred": 0.3,
+   "alt_best_loss": 0.08011963843255582,
+   "violations": 1,
+   "runs": [
+    {
+     "seed": 0,
+     "loss": 0.0801196448572227,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 1,
+     "loss": 0.06573521860004489,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 2,
+     "loss": 0.08011970821763492,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 3,
+     "loss": 0.08011967051583528,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 4,
+     "loss": 0.08011963871256171,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 5,
+     "loss": 0.0657352186000449,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 6,
+     "loss": 0.08011963843255582,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 7,
+     "loss": 0.0657352186000449,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 8,
+     "loss": 0.08011971027257822,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 9,
+     "loss": 0.08795997242681171,
+     "split": "A",
+     "violations": 1
+    }
+   ]
+  },
+  {
+   "inst": 6,
+   "pred": "B",
+   "spread": {
+    "A": 0.03393131387625779,
+    "B": 0.0561420300305335
+   },
+   "best_split": "B",
+   "best_loss": 0.0947161632237492,
+   "frac_runs_pred": 0.7,
+   "alt_best_loss": 0.09873217568294615,
+   "violations": 1,
+   "runs": [
+    {
+     "seed": 0,
+     "loss": 0.09471616322374923,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 1,
+     "loss": 0.0947161632237492,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 2,
+     "loss": 0.09471616322374939,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 3,
+     "loss": 0.09873217568294616,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 4,
+     "loss": 0.09873217568294615,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 5,
+     "loss": 0.09873217568294618,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 6,
+     "loss": 0.09471616322374923,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 7,
+     "loss": 0.09471616322374923,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 8,
+     "loss": 0.09471616765752533,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 9,
+     "loss": 0.09478471018353493,
+     "split": "B",
+     "violations": 1
+    }
+   ]
+  },
+  {
+   "inst": 7,
+   "pred": "A",
+   "spread": {
+    "A": 0.0849579926001875,
+    "B": 0.02165936549890707
+   },
+   "best_split": "A",
+   "best_loss": 0.07806018834969003,
+   "frac_runs_pred": 1.0,
+   "alt_best_loss": null,
+   "violations": 0,
+   "runs": [
+    {
+     "seed": 0,
+     "loss": 0.07806018834969003,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 1,
+     "loss": 0.07806018834969003,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 2,
+     "loss": 0.07806018834969003,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 3,
+     "loss": 0.07806018834969003,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 4,
+     "loss": 0.07806018834969003,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 5,
+     "loss": 0.07806018834969003,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 6,
+     "loss": 0.07806018834969003,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 7,
+     "loss": 0.07806018834969003,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 8,
+     "loss": 0.07806018834969003,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 9,
+     "loss": 0.07806018834969039,
+     "split": "A",
+     "violations": 0
+    }
+   ]
+  },
+  {
+   "inst": 8,
+   "pred": "B",
+   "spread": {
+    "A": 0.023536722309411888,
+    "B": 0.03874560543774336
+   },
+   "best_split": "B",
+   "best_loss": 0.06466920591615585,
+   "frac_runs_pred": 0.6,
+   "alt_best_loss": 0.08679429663199312,
+   "violations": 0,
+   "runs": [
+    {
+     "seed": 0,
+     "loss": 0.06466920591615585,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 1,
+     "loss": 0.06466920591615585,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 2,
+     "loss": 0.08679429663961957,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 3,
+     "loss": 0.08679429663199312,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 4,
+     "loss": 0.08679429663199345,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 5,
+     "loss": 0.06466920591615585,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 6,
+     "loss": 0.06466920591615585,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 7,
+     "loss": 0.06466920591615585,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 8,
+     "loss": 0.06466920591615585,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 9,
+     "loss": 0.0867948849761701,
+     "split": "A",
+     "violations": 0
+    }
+   ]
+  },
+  {
+   "inst": 9,
+   "pred": "B",
+   "spread": {
+    "A": 0.013452918121165303,
+    "B": 0.04199558454356801
+   },
+   "best_split": "B",
+   "best_loss": 0.05011185015581485,
+   "frac_runs_pred": 1.0,
+   "alt_best_loss": null,
+   "violations": 0,
+   "runs": [
+    {
+     "seed": 0,
+     "loss": 0.05011185015581485,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 1,
+     "loss": 0.05011185015581522,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 2,
+     "loss": 0.05011185015584063,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 3,
+     "loss": 0.05011185015581485,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 4,
+     "loss": 0.050111850155974066,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 5,
+     "loss": 0.05011185015581905,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 6,
+     "loss": 0.05011185017107544,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 7,
+     "loss": 0.05011185015717453,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 8,
+     "loss": 0.05011185015820534,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 9,
+     "loss": 0.050111850155872564,
+     "split": "B",
+     "violations": 0
+    }
+   ]
+  },
+  {
+   "inst": 10,
+   "pred": "A",
+   "spread": {
+    "A": 0.038150808691856566,
+    "B": 0.002819690564223508
+   },
+   "best_split": "A",
+   "best_loss": 0.037370410774767715,
+   "frac_runs_pred": 1.0,
+   "alt_best_loss": null,
+   "violations": 0,
+   "runs": [
+    {
+     "seed": 0,
+     "loss": 0.037370410774767715,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 1,
+     "loss": 0.03737041077476772,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 2,
+     "loss": 0.03737041077476772,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 3,
+     "loss": 0.03737041077476773,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 4,
+     "loss": 0.03737041077476772,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 5,
+     "loss": 0.03737041077476772,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 6,
+     "loss": 0.03737041077476772,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 7,
+     "loss": 0.03737041077476772,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 8,
+     "loss": 0.03737041077476773,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 9,
+     "loss": 0.11209248661361258,
+     "split": "A",
+     "violations": 0
+    }
+   ]
+  },
+  {
+   "inst": 11,
+   "pred": "B",
+   "spread": {
+    "A": 0.02339557000027947,
+    "B": 0.05651989746249852
+   },
+   "best_split": "B",
+   "best_loss": 0.08601406026716005,
+   "frac_runs_pred": 0.9,
+   "alt_best_loss": 0.3515138995445831,
+   "violations": 0,
+   "runs": [
+    {
+     "seed": 0,
+     "loss": 0.08601406026716005,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 1,
+     "loss": 0.08601406026716005,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 2,
+     "loss": 0.08601406026717151,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 3,
+     "loss": 0.3515138995445831,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 4,
+     "loss": 0.08601406026716005,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 5,
+     "loss": 0.08601406026716005,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 6,
+     "loss": 0.08601406616803542,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 7,
+     "loss": 0.08601406026716005,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 8,
+     "loss": 0.08601406026716008,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 9,
+     "loss": 0.08601406026780962,
+     "split": "B",
+     "violations": 0
+    }
+   ]
+  },
+  {
+   "inst": 12,
+   "pred": "A",
+   "spread": {
+    "A": 0.1023713096520604,
+    "B": 0.012426818394113902
+   },
+   "best_split": "A",
+   "best_loss": 0.11012249597535916,
+   "frac_runs_pred": 0.9,
+   "alt_best_loss": 0.15216769144652148,
+   "violations": 0,
+   "runs": [
+    {
+     "seed": 0,
+     "loss": 0.11012249597535916,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 1,
+     "loss": 0.15216769144652148,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 2,
+     "loss": 0.11012249597535917,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 3,
+     "loss": 0.11012249597535917,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 4,
+     "loss": 0.11012249597535917,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 5,
+     "loss": 0.11012249597535917,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 6,
+     "loss": 0.11012249597535917,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 7,
+     "loss": 0.11012249597535916,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 8,
+     "loss": 0.11012249597535917,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 9,
+     "loss": 0.11012250103754612,
+     "split": "A",
+     "violations": 0
+    }
+   ]
+  },
+  {
+   "inst": 13,
+   "pred": "B",
+   "spread": {
+    "A": 0.011219836709599824,
+    "B": 0.07011167382671149
+   },
+   "best_split": "B",
+   "best_loss": 0.08493687340756081,
+   "frac_runs_pred": 1.0,
+   "alt_best_loss": null,
+   "violations": 0,
+   "runs": [
+    {
+     "seed": 0,
+     "loss": 0.08493687340756081,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 1,
+     "loss": 0.08493687340756084,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 2,
+     "loss": 0.08493687340756084,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 3,
+     "loss": 0.08493951025198673,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 4,
+     "loss": 0.08493687340756381,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 5,
+     "loss": 0.08493687340756083,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 6,
+     "loss": 0.08493687340756081,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 7,
+     "loss": 0.08493687340756084,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 8,
+     "loss": 0.08493687340756081,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 9,
+     "loss": 0.08493687344177236,
+     "split": "B",
+     "violations": 0
+    }
+   ]
+  },
+  {
+   "inst": 14,
+   "pred": "A",
+   "spread": {
+    "A": 0.04390207794551832,
+    "B": 0.04088256894182202
+   },
+   "best_split": "B",
+   "best_loss": 0.0982690501765831,
+   "frac_runs_pred": 0.5,
+   "alt_best_loss": 0.09883447435044447,
+   "violations": 0,
+   "runs": [
+    {
+     "seed": 0,
+     "loss": 0.09883447435044447,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 1,
+     "loss": 0.0982690501765831,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 2,
+     "loss": 0.0988344743505094,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 3,
+     "loss": 0.09883447435044447,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 4,
+     "loss": 0.09826905017850401,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 5,
+     "loss": 0.0982690501765833,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 6,
+     "loss": 0.09883447435051243,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 7,
+     "loss": 0.09826905017660931,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 8,
+     "loss": 0.09883447468843372,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 9,
+     "loss": 0.09826910498461457,
+     "split": "B",
+     "violations": 0
+    }
+   ]
+  },
+  {
+   "inst": 15,
+   "pred": "B",
+   "spread": {
+    "A": 0.008031162172034081,
+    "B": 0.054447050476236124
+   },
+   "best_split": "B",
+   "best_loss": 0.05236937470497768,
+   "frac_runs_pred": 1.0,
+   "alt_best_loss": null,
+   "violations": 0,
+   "runs": [
+    {
+     "seed": 0,
+     "loss": 0.052369374704977684,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 1,
+     "loss": 0.05236937470497768,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 2,
+     "loss": 0.052369374704977684,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 3,
+     "loss": 0.05236937470497859,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 4,
+     "loss": 0.052369374704977684,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 5,
+     "loss": 0.052369374704977684,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 6,
+     "loss": 0.052369374704977684,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 7,
+     "loss": 0.052369374704977684,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 8,
+     "loss": 0.052369374704977684,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 9,
+     "loss": 0.052369374704977684,
+     "split": "B",
+     "violations": 0
+    }
+   ]
+  },
+  {
+   "inst": 16,
+   "pred": "A",
+   "spread": {
+    "A": 0.06760317305818969,
+    "B": 0.0525680322532958
+   },
+   "best_split": "B",
+   "best_loss": 0.1138186918788198,
+   "frac_runs_pred": 0.4,
+   "alt_best_loss": 0.11450918585858308,
+   "violations": 0,
+   "runs": [
+    {
+     "seed": 0,
+     "loss": 0.1138186918788198,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 1,
+     "loss": 0.11450918585858308,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 2,
+     "loss": 0.1138186918788198,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 3,
+     "loss": 0.11450918585858309,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 4,
+     "loss": 0.11450918585858309,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 5,
+     "loss": 0.1138186918788198,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 6,
+     "loss": 0.1138186918788198,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 7,
+     "loss": 0.1145091858585836,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 8,
+     "loss": 0.1138186918788198,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 9,
+     "loss": 0.1138186918788198,
+     "split": "B",
+     "violations": 0
+    }
+   ]
+  },
+  {
+   "inst": 17,
+   "pred": "B",
+   "spread": {
+    "A": 0.022733774393651467,
+    "B": 0.029458547240983332
+   },
+   "best_split": "B",
+   "best_loss": 0.0720312740103557,
+   "frac_runs_pred": 0.5,
+   "alt_best_loss": 0.08596977432157177,
+   "violations": 0,
+   "runs": [
+    {
+     "seed": 0,
+     "loss": 0.08597071049815386,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 1,
+     "loss": 0.0720312740103557,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 2,
+     "loss": 0.08597248561152347,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 3,
+     "loss": 0.08596977432157177,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 4,
+     "loss": 0.0720312740103557,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 5,
+     "loss": 0.0720312740103557,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 6,
+     "loss": 0.08597140032101294,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 7,
+     "loss": 0.0720312740103557,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 8,
+     "loss": 0.08597471857356635,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 9,
+     "loss": 0.0720312740103557,
+     "split": "B",
+     "violations": 0
+    }
+   ]
+  },
+  {
+   "inst": 18,
+   "pred": "B",
+   "spread": {
+    "A": 0.05550766691808408,
+    "B": 0.11070736276813672
+   },
+   "best_split": "B",
+   "best_loss": 0.15112926381585806,
+   "frac_runs_pred": 0.8,
+   "alt_best_loss": 0.18059022132851868,
+   "violations": 0,
+   "runs": [
+    {
+     "seed": 0,
+     "loss": 0.15112926381585806,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 1,
+     "loss": 0.15112926381585806,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 2,
+     "loss": 0.15112926381585806,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 3,
+     "loss": 0.18059022132851868,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 4,
+     "loss": 0.15112926381585806,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 5,
+     "loss": 0.15112926381585806,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 6,
+     "loss": 0.15112926381585806,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 7,
+     "loss": 0.15112926381585806,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 8,
+     "loss": 0.18059022132851874,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 9,
+     "loss": 0.15112926381586933,
+     "split": "B",
+     "violations": 0
+    }
+   ]
+  },
+  {
+   "inst": 19,
+   "pred": "A",
+   "spread": {
+    "A": 0.04710779261769854,
+    "B": 0.01891976608017716
+   },
+   "best_split": "A",
+   "best_loss": 0.06970319893606694,
+   "frac_runs_pred": 0.7,
+   "alt_best_loss": 0.082851898039428,
+   "violations": 0,
+   "runs": [
+    {
+     "seed": 0,
+     "loss": 0.06970319893606697,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 1,
+     "loss": 0.08285189803942801,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 2,
+     "loss": 0.06970319893606697,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 3,
+     "loss": 0.06970319893606694,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 4,
+     "loss": 0.06970331582494926,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 5,
+     "loss": 0.08285189803942801,
+     "split": "B",
+     "violations": 0
+    },
+    {
+     "seed": 6,
+     "loss": 0.06970319893606695,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 7,
+     "loss": 0.06970319893606695,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 8,
+     "loss": 0.06970319893606695,
+     "split": "A",
+     "violations": 0
+    },
+    {
+     "seed": 9,
+     "loss": 0.082851898039428,
+     "split": "B",
+     "violations": 0
+    }
+   ]
+  }
+ ]
+}

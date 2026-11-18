@@ -1,0 +1,13 @@
+numpy==2.5.3
+scipy==1.18.1
+matplotlib==3.11.2
+torch==2.14.0
+sae-lens==6.51.3
+transformer-lens==3.9.0
+transformers==5.17.0
+datasets==5.0.1
+pyarrow==25.0.1
+tqdm==4.70.1
+ipykernel==7.3.0
+jax==0.7.2  # toy notebooks only
+optax==0.2.5  # toy notebooks only

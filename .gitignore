@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+Untitled*.ipynb
+# LaTeX drafts written by the figure scripts
+absorption_toy/appendix_toy_localmin.tex
+splitting_order/appendix_split_order.tex
