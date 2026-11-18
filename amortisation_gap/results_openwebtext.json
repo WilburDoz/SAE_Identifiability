@@ -1,0 +1,85 @@
+{
+ "gap": {
+  "dataset": "openwebtext",
+  "n_tokens": 65024,
+  "iters": 800,
+  "obj_enc": 1521.1478271484375,
+  "obj_opt": 1357.6356201171875,
+  "rel_gap_mean": 0.11365219205617905,
+  "rel_gap_median": 0.10828603804111481,
+  "fvu_enc": 0.14192189276218414,
+  "fvu_opt": 0.0950206071138382,
+  "l1_enc": 689.2520751953125,
+  "l1_opt": 800.6583251953125,
+  "l0_enc": 65.69405142716535,
+  "l0_opt": 114.01651697834646,
+  "frac_enc_support_kept": 0.5962492596606963,
+  "frac_opt_support_in_enc": 0.34354697517201005,
+  "kkt_max_rel": 0.017873473465442657,
+  "kkt_p99_rel": 0.007645065896213055
+ },
+ "conditions": {
+  "encoder": {
+   "eq6": {
+    "dataset": "openwebtext",
+    "sae": "main_24576",
+    "fvu": 0.14192189276218414,
+    "mean_l0": 65.69405142716535,
+    "n_features": 3747,
+    "n_dense_10pct": 1,
+    "n_violations": 0,
+    "n_strict_hierarchy": 0,
+    "n_upper_end": 0,
+    "n_never_coinactive": 0,
+    "n_violating_features": 0,
+    "n_replicating": 0,
+    "n_pairs_gauge_above_0p1": 0,
+    "gauge_quantiles": {
+     "50": 0.0013528065842225438,
+     "99": 0.005524279305003613,
+     "99.99": 0.021377567363369213
+    },
+    "gauge_max_finite": 0.029507730202082614
+   },
+   "eq8": {
+    "dataset": "openwebtext",
+    "sae": "main_24576",
+    "lam_train": 2.316409639625606,
+    "lam_star": 0.4591349379812621,
+    "n_violations": 0,
+    "n_pairs": 187350
+   }
+  },
+  "optcodes": {
+   "eq6": {
+    "dataset": "openwebtext",
+    "sae": "optcodes",
+    "fvu": 0.0950206071138382,
+    "mean_l0": 114.01651697834646,
+    "n_features": 7670,
+    "n_dense_10pct": 0,
+    "n_violations": 0,
+    "n_strict_hierarchy": 0,
+    "n_upper_end": 0,
+    "n_never_coinactive": 0,
+    "n_violating_features": 0,
+    "n_replicating": 0,
+    "n_pairs_gauge_above_0p1": 0,
+    "gauge_quantiles": {
+     "50": 0.0007602578576274162,
+     "99": 0.0032476392899551797,
+     "99.99": 0.011315319629073865
+    },
+    "gauge_max_finite": 0.016336029190158443
+   },
+   "eq8": {
+    "dataset": "openwebtext",
+    "sae": "optcodes",
+    "lam_train": 2.316409639625606,
+    "lam_star": 0.23162175901566873,
+    "n_violations": 0,
+    "n_pairs": 383500
+   }
+  }
+ }
+}

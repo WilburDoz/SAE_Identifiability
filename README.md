@@ -47,6 +47,23 @@ jupyter notebook Real_SAE_Checks.ipynb
 
 `SAE_Real.ipynb` is the original exploratory version of the pairwise check. It is superseded by the files above.
 
+## Amortisation gap of the real SAE (supplementary, not in the paper)
+
+In `amortisation_gap/`. The theory concerns optimal codes, but an SAE's encoder does not produce them (O'Neill et al., 2024). These scripts measure the gap for the SAE analysed above and check that the conditions still hold.
+
+| File | What it does |
+|---|---|
+| `amortisation_gap.py` | Keeps the SAE's decoder fixed. For each token, solves the SAE's own training objective (MSE + L1, at the training λ) for the codes, using FISTA warm-started at the encoder's codes. Saves the optimal codes to `~/sae_identifiability_cache/<dataset>/optcodes/`, in the same format as the encoder codes. |
+| `conditions_optimal_codes.py` | Runs the pairwise eq. (6) check and the eq. (8) residual check on both the encoder codes and the optimal codes. |
+| `results_openwebtext.json` | Saved results on the 65,024 OpenWebText tokens. |
+
+On OpenWebText, the encoder's codes are 11.4% above optimal in the training objective (mean per token; median 10.8%). The fraction of variance unexplained is 0.142 with the encoder's codes and 0.095 with optimal codes, and L0 is 66 and 114. With either set of codes, eq. (6) has no violations. For eq. (8), the smallest λ at which every pair passes is 0.20× the training λ with the encoder's codes and 0.10× with optimal codes.
+
+```
+python amortisation_gap/amortisation_gap.py openwebtext 800     # ~30 min on an M-series GPU
+python amortisation_gap/conditions_optimal_codes.py openwebtext
+```
+
 ## Is the un-absorbed dictionary a local minimum? (Fig. 7, App. G.2)
 
 In `absorption_toy/`. Each model is initialised at the ground-truth (un-absorbed) dictionary and trained by gradient descent on the exact expected loss, which is computed by enumerating every activation pattern with its probability, so there is no sampling noise.
